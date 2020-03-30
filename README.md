@@ -20,7 +20,6 @@ You need 32GB size SD card.
 5. Select "Use custom" option and choose the downloaded image.
 
 ![Alt_text](images/Step_2_640x640.png)
-
 ![Alt_text](images/Step_3_640x640.png)
 
 6. Select SD card
