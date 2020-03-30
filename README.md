@@ -39,4 +39,4 @@ Pre-configured Raspiberry Pi image for TELUS devit comes with the following pre-
 
 ![Alt_text](images/Step_8_640x640.png)
 
-9. Unmount (eject) SD card and insert to Raspberry Pi and power up.
+9. Unmount (eject) SD card, insert to Raspberry Pi and power up.
