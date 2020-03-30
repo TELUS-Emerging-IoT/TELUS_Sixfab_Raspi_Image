@@ -34,3 +34,5 @@ You need 32GB size SD card.
 8. Done
 
 ![Alt_text](images/Step_8_640x640.png)
+
+9. Unmount (eject) SD card and insert to Raspberry Pi and power up.
