@@ -25,3 +25,12 @@ You need 32GB size SD card.
 6. Select SD card
 
 ![Alt_text](images/Step_4_640x640.png)
+![Alt_text](images/Step_5_640x640.png)
+
+7. Write and Verify
+
+![Alt_text](images/Step_6_640x640.png)
+
+8. Done
+
+![Alt_text](images/Step_8_640x640.png)
