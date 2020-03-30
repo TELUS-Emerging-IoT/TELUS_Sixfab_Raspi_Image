@@ -1,5 +1,5 @@
 # TELUS_Sixfab_Raspi_Image
-Pre-configured Raspiberry Pi image for TELUS devit comes with following pre-installed:
+Pre-configured Raspiberry Pi image for TELUS devit comes with the following pre-installed:
 
 1. **PPP dialer**, tutorial can be found here: https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial/tree/Updated-TELUS-Cat-M1-Shield
 
