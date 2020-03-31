@@ -5,13 +5,13 @@ Pre-configured Raspiberry Pi image for TELUS devit comes with the following pre-
 
 2. **`Sixfab RPi Library and demo applications`**, can be found here: https://github.com/TELUS-Emerging-IoT/TELUS_Sixfab_RPi_CellularIoT_App_Shield 
 
-# Download the image
+## Download the image
 
 1. Download the pre-configured TELUS Raspberry Pi image here: https://iotdevkit.s3.ca-central-1.amazonaws.com/TELUS_Sixfab_Raspian.img.zip
 
 2. Unzip the file.
 
-# Write image to SD card
+## Write image to SD card
 
 `You need 32GB size SD card.`
 
